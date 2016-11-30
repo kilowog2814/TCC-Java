@@ -6,7 +6,5 @@ Nele é possivel Admitir funcionario, onde é possivel gerar um login e uma senh
 </p>
 <li>
   <ul>Login:</ul>
-    <li>
-        <ul> login: admin <br/> senha: 123</ul>  
-    </li>
+    <ul> login: admin <br/> senha: 123</ul>  
 </li>
