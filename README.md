@@ -5,6 +5,8 @@ Foi desenvolvido pra o controle de funcionarios dentro do Hotel, e só pode ser 
 Nele é possivel Admitir funcionario, onde é possivel gerar um login e uma senha para esse funcionario. Cosultar os dados do funcionario e editar. E realizar a demissão do funcinario, onde é necessario dar um motivo dessa demissão, pra ser salvo no banco.
 </p>
 <li>
-<ul> Login:</ul>
-<ul> login: admin <br/> senha: 123</ul>
+  <ul>Login:</ul>
+    <li>
+        <ul> login: admin <br/> senha: 123</ul>  
+    </li>
 </li>
